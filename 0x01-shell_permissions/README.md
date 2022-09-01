@@ -1,2 +1,3 @@
 0-iam_betty changes the usr to Betty
 1-who_am_i prints curent usr
+2-groups shows groups
