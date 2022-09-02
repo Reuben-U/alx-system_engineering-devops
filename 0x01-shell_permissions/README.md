@@ -10,3 +10,4 @@
 9-John_Doe added
 10-mirror_permissions added
 11-directories_permissions
+chmod -R u=rwx,go=rx added
