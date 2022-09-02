@@ -11,3 +11,4 @@
 10-mirror_permissions added
 11-directories_permissions
 chmod -R u=rwx,go=rx added
+12-directory_permissions added
