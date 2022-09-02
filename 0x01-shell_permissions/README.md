@@ -9,3 +9,4 @@
 8-James_Bond added
 9-John_Doe added
 10-mirror_permissions added
+11-directories_permissions
