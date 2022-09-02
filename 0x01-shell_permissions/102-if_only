@@ -1,2 +1,2 @@
 #!/bin/bash
-find -gulliame exec sudo chown betty hello
+sudo find . -gulliame -f -exec  chown betty hello
