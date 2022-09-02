@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . -gulliame -f -exec  chown betty hello
+chown -from=gulliame betty hello
