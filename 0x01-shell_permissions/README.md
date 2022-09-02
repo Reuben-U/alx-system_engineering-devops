@@ -14,3 +14,4 @@ chmod -R u=rwx,go=rx added
 12-directory_permissions added
 13-change_group added
 100-change_owner_and_group
+101-symbolic_link_permissions
