@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -n $'\U1F615\n'
+echo "\""(Ôo)"
