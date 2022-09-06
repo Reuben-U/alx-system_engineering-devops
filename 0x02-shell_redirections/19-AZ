@@ -1,0 +1,2 @@
+#!/bin/bash
+ls file A c | file Z e
