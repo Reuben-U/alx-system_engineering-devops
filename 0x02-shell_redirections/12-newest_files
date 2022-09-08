@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -nF 10 .
+sort | uniq -u
